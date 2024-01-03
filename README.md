@@ -1,2 +1,2 @@
-# fortune-telling.github.io
+# fortune-telling
 Новорічні гадання
